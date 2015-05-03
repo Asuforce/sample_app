@@ -1,4 +1,4 @@
-# Ruby on Rails Tutorial：demo application
+# Ruby on Rails Tutorial：sample application
 
 This is the demo application for the
 [*Ruby on Rails Tutorial*](http://railstutorial.jp/)
